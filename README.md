@@ -1,0 +1,1 @@
+Analysis about food trend
