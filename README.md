@@ -1,1 +1,1 @@
-Analysis about food trend
+Analysis about food trend through the data collected in survey
